@@ -26,15 +26,15 @@ estas son las crendenciales de prueba de nuestro proyecto:
 
 administrador
 
-admin@sublimaipu.cl
-admin
+email: admin@sublimaipu.cl
+contraseña: admin
 
 cliente
 
-cliente@gmail.com
-cliente
+email: cliente@gmail.com
+contraseña: cliente
 
 vendedor
 
-vendedor@sublimaipu.cl
-vendedor
+email: vendedor@sublimaipu.cl
+contraseña: vendedor
